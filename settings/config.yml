@@ -1,0 +1,49 @@
+# Haxball Bot 1.0.1 Configuration File
+# by 17pxy
+
+##########################################
+#                 GENERAL                #
+##########################################
+
+# BOT PREFIX
+PREFIX: "m!"
+
+# BOTNAME
+BOTNAME: "Haxball Bot"
+
+# EMBEDCOLOR | Bot embed color
+EMBEDCOLOR: "AQUA"
+
+# OWNER-NAME | YOUR DISCORD NAME
+OWNERNAME: "17pxy" # Your discord name
+
+# OWNER-ID | YOUR DISCORD ID
+OWNERID: "852300860176597002" 
+
+# TOKEN | Discord Bot Token
+TOKEN: 'bot-token'
+
+# GUILD-ID | Discord Server ID.
+GUILDID: 'guild-id'
+
+# DATABASE | If you do not know how to get the url look at the guide.
+mongooseConnectionString: 'mongo-uri'
+
+##########################################
+#             Activity Config            #
+##########################################
+
+ACTIVITY:
+  ACTIVITIES:  # Placeholders 
+    ACTIVITY1: "Haxball Bot"
+    ACTIVITY2: "Creado por rana"
+    ACTIVITY3: ".gg/haxballbot"
+    ACTIVITYTYPE1: "PLAYING"
+    ACTIVITYTYPE2: "WATCHING"
+    ACTIVITYTYPE3: "COMPETING"
+    STATUS: "DND"
+    INTERVAL: "3500" # ms
+
+
+#        Haxball Bot By 17pxy          #
+
